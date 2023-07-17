@@ -1,6 +1,6 @@
 # nlw-esports-desafio
 
-![preview](./assets/preview.png)
+![preview](./assets/Fundo.jpg)
 
 
 > Trilha Explorer - Desafio Extra
@@ -9,7 +9,7 @@
 Projeto construido no evento Next Level Week da Rocketseat.
 
 
-[🔗 Clique aqui para acessar]( )
+[🔗 Clique aqui para acessar](https://larissabrito-dev.github.io/nlw-esports-desafio/)
 
 
 ## 🔧 Tecnologias
