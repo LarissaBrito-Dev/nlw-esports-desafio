@@ -1,4 +1,4 @@
-# nlw-esports-desafio
+# NLW-eSports-Desafio
 
 ![preview](./github/preview.png)
 
