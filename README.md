@@ -1,6 +1,6 @@
 # nlw-esports-desafio
 
-![preview](./assets/Fundo.jpg)
+![preview](./github/preview.png)
 
 
 > Trilha Explorer - Desafio Extra
